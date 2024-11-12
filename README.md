@@ -21,12 +21,12 @@ Submit all three pages together (one per team):
 
 ### Page 2
 - **UML Diagram**: Create a UML diagram in **Lucidchart** that includes:
-  - All classes, with at least one abstract class and one interface
+  - All classes, ~~with at least one abstract class and one interface~~
   - Private data members
   - Public and private (helper) methods
   - Class Composition (“has-a” relationships)
   - Inheritance (“is-a” relationships)
-  - Interface (“does-a” relationships)
+  - ~~Interface (“does-a” relationships)~~
 - Use Lucidchart to create an electronic form of this diagram in landscape orientation. Update this diagram as your project develops.
 
 ### Page 3
@@ -45,7 +45,7 @@ Your program must use **Java Swing** for the graphical interface and meet the fo
 4. **Student-Designed Classes**: Create at least three, each with three methods.
 5. **Class Composition**: Use at least one “has-a” relationship (e.g., a `MusicLibrary` class with an array of `Songs`).
 6. **Class Interaction**: Each class should call method(s) from another class.
-7. **Inheritance**: Implement a superclass (at least one abstract class) and use an inheritance hierarchy (“is-a” relationship).
+7. **Inheritance**: Implement a superclass ~~(at least one abstract class)~~ and use an inheritance hierarchy (“is-a” relationship).
 8. **List and Traversal**: Use a list in at least one class, traversed and accessed with a `for` loop.
 9. **Algorithmic Complexity**: Include a method demonstrating high problem-solving ability (refer to the grading rubric).
 10. **Comments**: Include comments explaining key logic points.
@@ -54,7 +54,7 @@ Your program must use **Java Swing** for the graphical interface and meet the fo
 
 ### Milestones
 - **Milestone 1** (November 15): Show basic functionality (no animation, sounds, or levels required).
-- **Milestone 2** (November 19): Majority of classes implemented, including an abstract class and an interface with interaction.
+- **Milestone 2** (November 19): Majority of classes implemented, ~~including an abstract class and an interface with interaction.~~
 - **Milestone 3** (November 21): Program completion at 95% (final details may include graphics, sounds, or special features).
 
 **Note**: Late projects incur a 10% deduction per day.
@@ -67,7 +67,7 @@ Submit the project by pushing it to **GitHub and GitHub Classroom**. Ensure your
 - **Project Folder**: The complete project.
 - **Final UML Diagram**: In **PDF** format.
 - **GitHub Classroom Submission**: Provide:
-  - A YouTube video link (public or unlisted, NOT private)
+  - A ~~YouTube~~ video link (public or unlisted, NOT private)
   - Game description
   - "How to Play" instructions
   - Special features
@@ -75,7 +75,7 @@ Submit the project by pushing it to **GitHub and GitHub Classroom**. Ensure your
 ---
 
 ## Phase IV – Presentation (Must not exceed 5 minutes)
-Submit a YouTube video presentation. The video should include:
+Submit a ~~YouTube~~ video presentation. The video should include:
 
 1. **Title**
 2. **Description of Program Operation**: Demonstrate the program.
@@ -101,7 +101,7 @@ Submit a YouTube video presentation. The video should include:
 - **Loops**: 5 points (appropriate and functional)
 - **Student-Designed Classes**: 10 points (three classes, each with three methods)
 - **Class Composition and Interaction**: 10 points (demonstrates relationships and collaboration between classes)
-- **Inheritance Hierarchy**: 5 points (at least one abstract class and an interface)
+- **Inheritance Hierarchy**: 5 points ~~(at least one abstract class and an interface)~~
 - **List and Traversal**: 5 points (correctly uses and traverses a list)
 - **Algorithmic Complexity**: 5 points (method shows advanced problem-solving)
 - **Comments and Naming**: 5 points (clear comments and meaningful names)
@@ -109,7 +109,7 @@ Submit a YouTube video presentation. The video should include:
 
 ### Phase III - Submission (10 points)
 - **GitHub Submission**: 5 points (project folder and UML diagram included)
-- **Submission Details**: 5 points (video link, game description, instructions, and special features included)
+- **Submission Details**: 5 points (video ~~link~~, game description, instructions, and special features included)
 
 ### Phase IV - Presentation (25 points)
 - **Title and Description**: 5 points (clear and concise)
