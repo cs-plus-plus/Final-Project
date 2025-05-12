@@ -1,5 +1,4 @@
-# AP Computer Science A Project
-**Instructor**: Mr. Hare
+# AP Computer Science A Final Project (Swing)
 
 This project requires you to design and implement a Java-based game or simulation using **Eclipse** with **Java Swing**. The project is divided into four phases, detailed below:
 
