@@ -5,7 +5,7 @@ This project requires you to design and implement a Java-based game or simulatio
 
 ---
 
-## Phase I - Proposal (Due by 10 pm on Wednesday, November 13)
+## Phase I - Proposal
 Submit all three pages together (one per team):
 
 ### Page 1
@@ -53,15 +53,15 @@ Your program must use **Java Swing** for the graphical interface and meet the fo
 12. **Javadocs**: Include `@param`, `@return`, etc., for each method in student-designed classes.
 
 ### Milestones
-- **Milestone 1** (November 15): Show basic functionality (no animation, sounds, or levels required).
-- **Milestone 2** (November 19): Majority of classes implemented, ~~including an abstract class and an interface with interaction.~~
-- **Milestone 3** (November 21): Program completion at 95% (final details may include graphics, sounds, or special features).
+- **Milestone 1** : Show basic functionality (no animation, sounds, or levels required).
+- **Milestone 2** : Majority of classes implemented, ~~including an abstract class and an interface with interaction.~~
+- **Milestone 3** : Program completion at 95% (final details may include graphics, sounds, or special features).
 
 **Note**: Late projects incur a 10% deduction per day.
 
 ---
 
-## Phase III – Project Submission (Due by 10 pm on Friday, November 22)
+## Phase III – Project Submission
 Submit the project by pushing it to **GitHub and GitHub Classroom**. Ensure your submission includes:
 
 - **Project Folder**: The complete project.
